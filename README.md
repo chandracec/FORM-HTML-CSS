@@ -7,4 +7,6 @@ Built with the help of HTML CSS
   title="Optional title"
   style="display: inline-block; margin: auto auto; max-width: 300px">
   
-<h4>The above code is deploye <a href"https://taupe-taffy-b81eb8.netlify.app/">Here</a></h4>
+<h4>The above code is deployed 
+  <a href"https://taupe-taffy-b81eb8.netlify.app/">Here</a>
+    </h4>
