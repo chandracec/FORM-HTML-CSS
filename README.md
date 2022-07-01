@@ -7,9 +7,4 @@ Built with the help of HTML CSS
   title="Optional title"
   style="display: inline-block; margin: auto auto; max-width: 300px">
   
-<h4>The above code is deployed </h4>
-[AT](https://62b9e10ade91e50008f175b0--mellifluous-capybara-b3d0e8.netlify.app/)
-
-    
-
-  
+ The above code is deployed [AT](https://62b9e10ade91e50008f175b0--mellifluous-capybara-b3d0e8.netlify.app/)
