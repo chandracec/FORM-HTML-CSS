@@ -1,4 +1,4 @@
-# FORM-HTML-CSS
+# Registration Form
 Built with the help of HTML CSS 
 <h3>This is how Registration page looks </h3>
 <img
@@ -21,4 +21,4 @@ Built with the help of HTML CSS
   style="display: inline-block; margin: auto auto; max-width: 300px">
   
   
- The above code is deployed [AT](https://62b9e10ade91e50008f175b0--mellifluous-capybara-b3d0e8.netlify.app/)
+ The above code is deployed [AT](https://taupe-taffy-b81eb8.netlify.app/)
